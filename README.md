@@ -2,7 +2,7 @@
 
 An revamped and optimised version of [OneRuleToRuleThemAll](https://github.com/stealthsploit/Optimised-hashcat-Rule).
 
-OneRuleToRuleThemStill now has a ~5% reduction in rules (52,000 down to ~~49,465~~ 49,229) with 0% performance loss against the Lifeboat and LastFM data breaches.
+OneRuleToRuleThemStill now has a ~~5%~~ ~6.9% reduction in rules (52,000 down to ~~49,465~~ 48,414) with 0% performance loss against the Lifeboat and LastFM data breaches.
 
 Updates:
 - De-duplication of resulting candidate generation (previously literal strings only)
