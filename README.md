@@ -19,7 +19,7 @@ More detail can be found in the blog: https://in.security/2023/01/10/oneruletoru
 
 I developed **Password Cracking 101+1**, freely available on our website at https://in.security/technical-training/password-cracking/ 
 - 4 hours of video content split into 15 parts with hands-on challenges
-- Covers basic/traditional attack techniques as well as deeper, more creative attacks (such as delimited passphrases, foreign language, emojis, non-determinstic attacks etc)
+- Covers basic/traditional attack techniques as well as deeper, more creative attacks (such as delimited passphrases, foreign language, emojis, non-deterministic attacks etc)
 - VM to download pre-built with training challenges and answers (VirtualBox OVA format)
 - Password Cracking 101+1 training channel in our Discord server to chat
   
